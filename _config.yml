@@ -101,6 +101,6 @@ theme: cactus
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/winstonzhao/blog
+  repo: https://github.com/winstonzhao/winstonzhao.github.io
   # example, https://github.com/hexojs/hexojs.github.io
   branch: gh-pages
