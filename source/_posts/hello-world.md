@@ -2,6 +2,8 @@
 ---
 
 title:  Average Frame of a Movie
+tags:
+- C++
 
 ---
 
